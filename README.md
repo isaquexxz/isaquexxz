@@ -387,24 +387,14 @@ Sistema completo de agendamento online e envio automático de e-mails de confirm
 # 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-
-<a href="https://github.com/isaquexxz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isaquexxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/isaquexxz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquexxz&layout=compact&theme=tokyonight"/>
-</a>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isaquexxz&show_icons=true&theme=tokyonight&border_radius=10&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquexxz&layout=compact&theme=tokyonight&border_radius=10&locale=pt-br" />
 </div>
 
 <br>
 
 <div align="center">
-
-<a href="https://github.com/isaquexxz">
-  <img src="https://streak-stats.demolab.com/?user=isaquexxz&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=70A5FD&dates=FFFFFF&border=1A1B27&hide_border=false"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com/?user=isaquexxz&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
