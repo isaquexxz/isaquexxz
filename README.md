@@ -389,10 +389,10 @@ Sistema completo de agendamento online e envio automático de e-mails de confirm
 <div align="center">
 
 <a href="https://github.com/isaquexxz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isaquexxz&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&icon_color=A855F7&text_color=FFFFFF&border_color=1A1B27&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isaquexxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/isaquexxz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquexxz&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&border_color=1A1B27&langs_count=8&hide_border=false"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquexxz&layout=compact&theme=tokyonight"/>
 </a>
 
 </div>
