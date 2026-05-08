@@ -387,8 +387,8 @@ Sistema completo de agendamento online e envio automático de e-mails de confirm
 # 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isaquexxz&show_icons=true&theme=tokyonight&border_radius=10&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquexxz&layout=compact&theme=tokyonight&border_radius=10&locale=pt-br" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaquexxz&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-languages?username=isaquexxz&theme=tokyonight" />
 </div>
 
 <br>
